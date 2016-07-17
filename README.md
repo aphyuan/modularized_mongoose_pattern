@@ -1,0 +1,1 @@
+# modularized_mongoose_pattern
